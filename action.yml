@@ -18,7 +18,7 @@ inputs:
     description: 'Credential to access to the repo to post the comment'
     default: ${{ github.token }}
 runs:
-  using: 'node12'
+  using: 'node20'
   main: 'dist/index.js'
 branding:
   icon: 'bookmark'
