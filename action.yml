@@ -1,5 +1,5 @@
-name: 'attach-labels'
-description: 'Attach labels to PRs or Issues'
+name: 'attach-labels-updated'
+description: 'Attach labels to PRs or Issues Upgraded to Node20'
 author: 'KeisukeYamashita'
 inputs:
   labels:
